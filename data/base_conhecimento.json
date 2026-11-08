@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF pela primeira vez",
+    "palavras_chave": ["cpf", "tirar cpf", "fazer cpf", "inscrever no cpf", "inscricao no cpf", "cadastro de pessoa fisica"],
+    "resposta": "A inscrição no CPF é gratuita pelo site da Receita Federal. Também dá para fazer nas agências dos Correios, do Banco do Brasil ou da Caixa, mas nesses locais é cobrada uma taxa de R$ 7,00.",
+    "documentos": ["Documento oficial com foto", "Certidão de nascimento ou de casamento (se for menor de idade, leve também o documento do responsável)"],
+    "onde": "Site da Receita Federal (gov.br) ou agências dos Correios, Banco do Brasil e Caixa",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Tirar a Carteira de Identidade Nacional (novo RG)",
+    "palavras_chave": ["rg", "identidade", "carteira de identidade", "cin", "novo rg", "tirar rg"],
+    "resposta": "A nova Carteira de Identidade Nacional (CIN) usa o número do CPF e a primeira via é gratuita. Ela é emitida pelo órgão de identificação do seu estado. Em São Paulo, o atendimento é feito no Poupatempo, com agendamento.",
+    "documentos": ["Certidão de nascimento ou de casamento", "CPF regular"],
+    "onde": "Órgão de identificação do seu estado (em SP: Poupatempo, com agendamento)",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Tirar o primeiro título de eleitor",
+    "palavras_chave": ["titulo", "titulo de eleitor", "votar", "primeiro titulo", "eleitor", "zona eleitoral"],
+    "resposta": "Você pode pedir o primeiro título pelo Autoatendimento Eleitoral, no site do TSE, ou em um cartório eleitoral. Dá para tirar a partir dos 15 anos, desde que complete 16 até o dia da eleição. O voto é facultativo aos 16 e 17 anos e obrigatório a partir dos 18. O serviço é gratuito.",
+    "documentos": ["Documento oficial com foto", "Comprovante de residência", "Homens a partir de 18 anos: comprovante de quitação com o serviço militar"],
+    "onde": "Autoatendimento Eleitoral no site do TSE ou cartório eleitoral da sua cidade",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": ["alistamento", "alistamento militar", "exercito", "servico militar", "reservista", "junta militar"],
+    "resposta": "Todo homem deve se alistar no ano em que completa 18 anos, de 1º de janeiro a 30 de junho. O alistamento pode ser feito pela internet ou na Junta de Serviço Militar da sua cidade. Para mulheres, o alistamento é voluntário.",
+    "documentos": ["Documento oficial com foto", "CPF", "Comprovante de residência"],
+    "onde": "Site oficial do alistamento ou Junta de Serviço Militar da sua cidade",
+    "fonte": "https://alistamento.eb.mil.br",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": ["gov.br", "gov br", "conta gov", "conta govbr", "senha do gov", "login gov"],
+    "resposta": "A conta gov.br é gratuita e dá acesso a vários serviços públicos digitais, como a Carteira de Trabalho Digital. Para criar, baixe o app gov.br ou acesse o site e informe seu CPF. Para subir o nível da conta (prata ou ouro), valide seus dados pelo banco ou pelo reconhecimento facial.",
+    "documentos": ["CPF", "Celular ou computador com internet"],
+    "onde": "Aplicativo gov.br ou site gov.br",
+    "fonte": "https://www.gov.br/governodigital/pt-br/conta-gov-br",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Ter a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "ctps", "carteira digital", "carteira de trabalho digital", "registro em carteira"],
+    "resposta": "A Carteira de Trabalho agora é digital e gratuita. Ela é criada automaticamente a partir do seu CPF. Basta baixar o app Carteira de Trabalho Digital ou acessar o site e entrar com a sua conta gov.br. Para a empresa contratar você, normalmente basta informar o número do CPF.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou site gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Descobrir o número do PIS",
+    "palavras_chave": ["pis", "numero do pis", "nis", "pis pasep", "numero do nis"],
+    "resposta": "O número do PIS aparece no app Carteira de Trabalho Digital, na área de dados pessoais. Se você nunca trabalhou com carteira assinada e ainda não tem esse número, a empresa faz o cadastro quando contratar você no primeiro emprego.",
+    "documentos": ["Conta gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Ser Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendiz", "menor aprendiz", "aprendizagem", "primeiro emprego"],
+    "resposta": "Jovem Aprendiz é para quem tem de 14 a 24 anos (pessoas com deficiência não têm limite de idade). O contrato dura até 2 anos, com carteira assinada, e junta trabalho com um curso de aprendizagem. Quem não terminou o ensino médio precisa estar matriculado e frequentando a escola.",
+    "documentos": ["CPF", "Documento com foto", "Comprovante de matrícula escolar (se ainda estuda)"],
+    "onde": "Empresas contratantes e instituições de aprendizagem (como CIEE, Senai, Senac e Espro)",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l10097.htm",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 9,
+    "categoria": "Trabalho",
+    "titulo": "Direitos do estagiário",
+    "palavras_chave": ["estagio", "estagiario", "bolsa de estagio", "lei do estagio", "recesso", "carga horaria do estagio"],
+    "resposta": "Pela Lei do Estágio, a jornada é de no máximo 6 horas por dia e 30 horas por semana para quem está no ensino superior ou no ensino médio. No estágio não obrigatório, a bolsa e o auxílio-transporte são obrigatórios. Depois de 1 ano de estágio, você tem direito a 30 dias de recesso. O estágio na mesma empresa pode durar até 2 anos.",
+    "documentos": ["Termo de compromisso de estágio (assinado por você, pela empresa e pela escola)"],
+    "onde": "Empresa onde você estagia e a coordenação de estágio da sua escola ou faculdade",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 10,
+    "categoria": "Trabalho",
+    "titulo": "Procurar vagas de emprego no Sine",
+    "palavras_chave": ["vaga", "vagas", "sine", "procurar emprego", "vagas de emprego", "emprega brasil"],
+    "resposta": "O Sine divulga vagas de emprego de graça. Você pode procurar vagas pelo app Carteira de Trabalho Digital, pelo portal Emprega Brasil ou indo a um posto do Sine ou do Poupatempo da sua cidade.",
+    "documentos": ["CPF", "Conta gov.br (para usar o app ou o portal)"],
+    "onde": "App Carteira de Trabalho Digital, portal Emprega Brasil ou posto do Sine",
+    "fonte": "https://empregabrasil.mte.gov.br",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 11,
+    "categoria": "Educação e Benefícios",
+    "titulo": "Solicitar a ID Jovem (meia-entrada e passagens interestaduais)",
+    "palavras_chave": ["id jovem", "meia entrada", "passagem gratuita", "passagem interestadual", "carteirinha jovem"],
+    "resposta": "A ID Jovem é gratuita para quem tem de 15 a 29 anos, está no Cadastro Único (atualizado nos últimos 24 meses) e tem renda familiar de até 2 salários mínimos. Ela dá direito a meia-entrada em eventos e a vagas gratuitas ou com 50% de desconto em ônibus interestaduais convencionais.",
+    "documentos": ["Inscrição no Cadastro Único (NIS)", "CPF"],
+    "onde": "Aplicativo ID Jovem ou site oficial da ID Jovem",
+    "fonte": "https://idjovem.juventude.gov.br",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 12,
+    "categoria": "Educação e Benefícios",
+    "titulo": "Inscrição e isenção da taxa do Enem",
+    "palavras_chave": ["enem", "inscricao do enem", "isencao", "taxa do enem", "vestibular"],
+    "resposta": "A inscrição no Enem é feita pela Página do Participante, no site do Inep, com a conta gov.br. Quem está terminando o ensino médio em escola pública tem isenção da taxa. Fique atento ao edital de cada ano, porque as datas mudam.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Página do Participante, no site do Inep",
+    "fonte": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem",
+    "verificado_em": "2026-11-08"
+  }
+]
