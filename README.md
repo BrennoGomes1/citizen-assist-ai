@@ -2,7 +2,7 @@
 
 Assistente de terminal, em Python, que orienta **jovens que estão buscando o primeiro emprego** sobre documentos, trabalho e benefícios. Ele responde só com informações de fontes oficiais, mostra de onde veio cada resposta e não coleta dados pessoais.
 
-> Global Solution 2026.2 — Pensamento Computacional e Automação com Python (FIAP, 1CC)
+> Global Solution 2026.2 — Pensamento Computacional e Automação com Python (FIAP, 1CCPX)
 
 ## Integrantes
 
