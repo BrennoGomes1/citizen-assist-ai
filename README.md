@@ -1,8 +1,8 @@
-# Citizen Assist AI — Primeiro Emprego
+# Citizen Assist AI - Primeiro Emprego
 
 Assistente de terminal, em Python, que orienta **jovens que estão buscando o primeiro emprego** sobre documentos, trabalho e benefícios. Ele responde só com informações de fontes oficiais, mostra de onde veio cada resposta e não coleta dados pessoais.
 
-> Global Solution 2026.2 — Pensamento Computacional e Automação com Python (FIAP, 1CCPX)
+> Global Solution 2026.2 - Pensamento Computacional e Automação com Python (FIAP, 1CCPX)
 
 ## Integrantes
 
@@ -19,10 +19,10 @@ Assistente de terminal, em Python, que orienta **jovens que estão buscando o pr
 
 ## ODS relacionados
 
-- **ODS 4 – Educação de qualidade:** orientação sobre Enem e isenção da taxa.
-- **ODS 8 – Trabalho decente e crescimento econômico:** acesso a documentos, primeiro emprego, estágio e aprendizagem.
-- **ODS 10 – Redução das desigualdades:** informação simples e gratuita para jovens de baixa renda (ex.: ID Jovem).
-- **ODS 16 – Instituições eficazes:** facilita o acesso a serviços públicos e evita golpes com sites falsos.
+- **ODS 4 - Educação de qualidade:** orientação sobre Enem e isenção da taxa.
+- **ODS 8 - Trabalho decente e crescimento econômico:** acesso a documentos, primeiro emprego, estágio e aprendizagem.
+- **ODS 10 - Redução das desigualdades:** informação simples e gratuita para jovens de baixa renda (ex.: ID Jovem).
+- **ODS 16 - Instituições eficazes:** facilita o acesso a serviços públicos e evita golpes com sites falsos.
 
 ## Como executar
 
@@ -104,17 +104,17 @@ O mesmo tema (serviços e orientações ao cidadão) foi usado em **Data Structu
 
 ## Fontes consultadas (verificadas em 08/11/2026)
 
-- Receita Federal – Inscrever no CPF: https://www.gov.br/pt-br/servicos/inscrever-no-cpf
+- Receita Federal - Inscrever no CPF: https://www.gov.br/pt-br/servicos/inscrever-no-cpf
 - Carteira de Identidade Nacional: https://www.gov.br/governodigital/pt-br/identidade
-- TSE – Autoatendimento Eleitoral: https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral
-- Exército Brasileiro – Alistamento: https://alistamento.eb.mil.br
+- TSE - Autoatendimento Eleitoral: https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral
+- Exército Brasileiro - Alistamento: https://alistamento.eb.mil.br
 - Conta gov.br: https://www.gov.br/governodigital/pt-br/conta-gov-br
 - Carteira de Trabalho Digital: https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho
 - Lei da Aprendizagem (Lei 10.097/2000): https://www.planalto.gov.br/ccivil_03/leis/l10097.htm
 - Lei do Estágio (Lei 11.788/2008): https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm
 - Emprega Brasil / Sine: https://empregabrasil.mte.gov.br
 - ID Jovem: https://idjovem.juventude.gov.br
-- Inep – Enem: https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem
+- Inep - Enem: https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem
 
 ## Resultado do teste com usuários
 
