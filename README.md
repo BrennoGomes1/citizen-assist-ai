@@ -44,7 +44,7 @@ citizen-assist-ai/
 ├── base_conhecimento.py    # classe BaseConhecimento (carregar, categorias, pontuar, buscar)
 ├── assistente.py           # classe Assistente (perguntar, navegar, registrar, indicadores, CSV)
 └── data/
-    ├── base_conhecimento.json   # 12 orientações, 3 categorias
+    ├── base_conhecimento.json   # 14 orientações, 3 categorias
     ├── historico.json           # atendimentos registrados + notas de facilidade
     └── atendimentos.csv         # exportação dos atendimentos
 ```
@@ -115,23 +115,36 @@ O mesmo tema (serviços e orientações ao cidadão) foi usado em **Data Structu
 - Emprega Brasil / Sine: https://empregabrasil.mte.gov.br
 - ID Jovem: https://idjovem.juventude.gov.br
 - Inep - Enem: https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem
+- FGTS: https://www.fgts.gov.br
+- Lei do Vale-Transporte (Lei 7.418/1985): https://www.planalto.gov.br/ccivil_03/leis/l7418.htm
 
 ## Resultado do teste com usuários
 
-Testamos com **[X] pessoas de fora da equipe**, em **[X] atendimentos**. Não registramos nomes nem dados dos participantes.
+Testamos com **3 pessoas de fora da equipe**, em **10 atendimentos**. Não registramos nomes nem dados dos participantes. Para não induzir as respostas, cada pessoa recebeu situações do dia a dia (por exemplo, ter sido chamada para trabalhar sem ter carteira de trabalho) e escreveu as perguntas com as próprias palavras.
 
 | Indicador | Resultado |
 |---|---|
-| Resposta encontrada | [X]% |
-| Taxa de acerto (ajudou) | [X]% |
-| Tempo médio para encontrar | [X] s |
-| Tentativas por atendimento | [X] |
-| Facilidade de uso (1 a 5) | [X] |
+| Resposta encontrada | 50,0% |
+| Taxa de acerto (ajudou) | 50,0% |
+| Tempo médio para encontrar | 37,2 s |
+| Tentativas por atendimento | 1,2 |
+| Facilidade de uso (1 a 5) | 3,7 (3 avaliações) |
 
-**Dúvidas sem solução:**
-- [copiar da opção 3 do menu]
+**Dúvidas sem solução (5):**
+- Se a empresa é obrigada a pagar vale-transporte e vale-alimentação.
+- O que é o FGTS e quem paga (se é descontado do salário).
+- Hora extra no sábado e banco de horas.
+- O que a empresa paga na rescisão em caso de demissão sem justa causa.
+- Como trabalhar meio período enquanto ainda está no ensino médio.
 
-**Melhoria feita a partir do teste:** [ex.: a pergunta "quero viajar de graça de ônibus" não era encontrada. Incluímos a palavra-chave "viajar de graca" na orientação da ID Jovem e ela passou a ser respondida.]
+**O que aprendemos:** todas as perguntas sobre documentos foram encontradas. As que falharam eram sobre direitos trabalhistas, um assunto que o nosso público procura e a base ainda não cobria, ou usavam palavras informais (trampo, meio período) que não estavam nas palavras-chave.
+
+**Melhorias feitas a partir do teste:**
+1. Adicionamos a orientação Entender o FGTS (id 13, fonte fgts.gov.br).
+2. Adicionamos a orientação Vale-transporte e vale-alimentação (id 14, fonte Lei 7.418/1985).
+3. Incluímos as palavras-chave trabalhar e estudar, meio periodo e trampo na orientação Jovem Aprendiz.
+
+Com isso, 3 das 5 dúvidas sem solução passaram a ser respondidas (vale-transporte e Jovem Aprendiz com confiança ALTA, FGTS com MÉDIA). Hora extra e rescisão continuam fora da base (veja Limitações).
 
 ## Limitações
 
@@ -139,6 +152,7 @@ Testamos com **[X] pessoas de fora da equipe**, em **[X] atendimentos**. Não re
 - Não entende frases negativas nem contexto (ex.: "não quero CPF" também pontua para CPF).
 - As informações precisam ser conferidas e atualizadas manualmente, porque regras e sites do governo mudam.
 - O bloqueio de dados pessoais usa regras simples (dígitos e `@`). Um nome completo, por exemplo, não é detectado.
+- Não cobre hora extra, banco de horas e rescisão, dúvidas que apareceram no teste. São regras trabalhistas com muitos detalhes e exceções, e preferimos não simplificar demais.
 
 ## Vídeo técnico
 

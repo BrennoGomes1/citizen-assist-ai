@@ -16,7 +16,7 @@ Antes de gravar: zere o histórico (`data/historico.json` com `{"atendimentos": 
 
 - "A base é uma lista de dicionários. Cada dicionário é uma orientação."
 - Mostre campo por campo: id, categoria, título, palavras_chave (uma lista), resposta, documentos, onde, fonte e verificado_em.
-- "Temos 12 orientações em 3 categorias: Documentos, Trabalho, e Educação e Benefícios. Todas com fonte oficial e data de verificação."
+- "Temos 14 orientações em 3 categorias: Documentos, Trabalho, e Educação e Benefícios. Todas com fonte oficial e data de verificação."
 - "As tuplas aparecem na busca: cada resultado é uma tupla com pontos e a orientação."
 
 ## 3. Classes, self e composição - EDUARDO (~1 min 30)

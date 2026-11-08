@@ -1,1 +1,109 @@
-{"atendimentos": [], "notas_facilidade": []}
+{
+  "atendimentos": [
+    {
+      "data": "2026-11-08 18:04:28",
+      "origem": "categoria",
+      "pergunta": "Trabalho",
+      "id_orientacao": 9,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 16.5
+    },
+    {
+      "data": "2026-11-08 18:10:19",
+      "origem": "pergunta",
+      "pergunta": "Eu fui contratada como estagiária, mas tô trabalhando 8 horas por dia. O estagiário não podia trabalhar só 6 horas? Como é que fica essa questão da carga horária e das minhas férias?",
+      "id_orientacao": 9,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 44.4
+    },
+    {
+      "data": "2026-11-08 18:11:20",
+      "origem": "pergunta",
+      "pergunta": "quando a gente começa a trabalhar de carteira assinada, o patrão é obrigado a pagar vale-transporte e vale-alimentação ou isso vai depender da empresa?",
+      "id_orientacao": null,
+      "encontrou": false,
+      "ajudou": false,
+      "tentativas": 1,
+      "tempo_segundos": 60.9
+    },
+    {
+      "data": "2026-11-08 18:11:59",
+      "origem": "pergunta",
+      "pergunta": "Me disseram que eu tenho direito a FGTS, mas eu nem sei o que é isso direito e nem onde esse dinheiro vai parar. Quem é que paga isso, desconta do meu salário ou é a empresa que bota por fora?",
+      "id_orientacao": null,
+      "encontrou": false,
+      "ajudou": false,
+      "tentativas": 2,
+      "tempo_segundos": 99.6
+    },
+    {
+      "data": "2026-11-08 18:13:23",
+      "origem": "pergunta",
+      "pergunta": "Eu trabalho de segunda a sexta, mas às vezes rola hora extra no sábado. Como é que eu sei se a empresa tem que me pagar a mais, tirar folga (banco de horas) ou se já tá incluído no meu salário?",
+      "id_orientacao": null,
+      "encontrou": false,
+      "ajudou": false,
+      "tentativas": 1,
+      "tempo_segundos": 6.8
+    },
+    {
+      "data": "2026-11-08 18:15:31",
+      "origem": "pergunta",
+      "pergunta": "com 23 anos ainda dá para ser Jovem Aprendiz? Eu achei que era só para adolescente, qual é a regra de idade pra entrar nisso?",
+      "id_orientacao": 8,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 11.5
+    },
+    {
+      "data": "2026-11-08 18:16:41",
+      "origem": "pergunta",
+      "pergunta": "se o chefe me demitir sem justa causa, o que exatamente ele é obrigado a me pagar na rescisão e quanto tempo demora pra cair na minha conta?",
+      "id_orientacao": null,
+      "encontrou": false,
+      "ajudou": false,
+      "tentativas": 1,
+      "tempo_segundos": 70.1
+    },
+    {
+      "data": "2026-11-08 18:18:11",
+      "origem": "pergunta",
+      "pergunta": "eu tenho 16 anos e quero muito votar na próxima eleição, mas tô sem o título de eleitor. Como é que faz para tirar isso? Dá pra resolver pelo celular ou tenho que ir no cartório eleitoral?",
+      "id_orientacao": 3,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 1,
+      "tempo_segundos": 16.8
+    },
+    {
+      "data": "2026-11-08 18:18:58",
+      "origem": "pergunta",
+      "pergunta": "eu ainda tô estudando no ensino médio, mas queria muito arrumar um trampo de meio período para tirar um dinheiro. Como funciona isso de trabalhar e estudar sem dar ruim na escola?",
+      "id_orientacao": null,
+      "encontrou": false,
+      "ajudou": false,
+      "tentativas": 1,
+      "tempo_segundos": 47.3
+    },
+    {
+      "data": "2026-11-08 18:19:48",
+      "origem": "pergunta",
+      "pergunta": "vou terminar o ensino médio agora em escola pública e tô liso, não tenho como pagar a taxa do Enem. Sabe me dizer como faço para pedir aquela isenção e não pagar nada?",
+      "id_orientacao": 12,
+      "encontrou": true,
+      "ajudou": true,
+      "tentativas": 2,
+      "tempo_segundos": 97.0
+    }
+  ],
+  "notas_facilidade": [
+    3,
+    4,
+    4
+  ]
+}

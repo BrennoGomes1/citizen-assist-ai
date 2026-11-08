@@ -1,1 +1,11 @@
 data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-08 18:04:28,categoria,Trabalho,9,True,True,1,16.5
+2026-11-08 18:10:19,pergunta,"Eu fui contratada como estagiária, mas tô trabalhando 8 horas por dia. O estagiário não podia trabalhar só 6 horas? Como é que fica essa questão da carga horária e das minhas férias?",9,True,True,1,44.4
+2026-11-08 18:11:20,pergunta,"quando a gente começa a trabalhar de carteira assinada, o patrão é obrigado a pagar vale-transporte e vale-alimentação ou isso vai depender da empresa?",,False,False,1,60.9
+2026-11-08 18:11:59,pergunta,"Me disseram que eu tenho direito a FGTS, mas eu nem sei o que é isso direito e nem onde esse dinheiro vai parar. Quem é que paga isso, desconta do meu salário ou é a empresa que bota por fora?",,False,False,2,99.6
+2026-11-08 18:13:23,pergunta,"Eu trabalho de segunda a sexta, mas às vezes rola hora extra no sábado. Como é que eu sei se a empresa tem que me pagar a mais, tirar folga (banco de horas) ou se já tá incluído no meu salário?",,False,False,1,6.8
+2026-11-08 18:15:31,pergunta,"com 23 anos ainda dá para ser Jovem Aprendiz? Eu achei que era só para adolescente, qual é a regra de idade pra entrar nisso?",8,True,True,1,11.5
+2026-11-08 18:16:41,pergunta,"se o chefe me demitir sem justa causa, o que exatamente ele é obrigado a me pagar na rescisão e quanto tempo demora pra cair na minha conta?",,False,False,1,70.1
+2026-11-08 18:18:11,pergunta,"eu tenho 16 anos e quero muito votar na próxima eleição, mas tô sem o título de eleitor. Como é que faz para tirar isso? Dá pra resolver pelo celular ou tenho que ir no cartório eleitoral?",3,True,True,1,16.8
+2026-11-08 18:18:58,pergunta,"eu ainda tô estudando no ensino médio, mas queria muito arrumar um trampo de meio período para tirar um dinheiro. Como funciona isso de trabalhar e estudar sem dar ruim na escola?",,False,False,1,47.3
+2026-11-08 18:19:48,pergunta,"vou terminar o ensino médio agora em escola pública e tô liso, não tenho como pagar a taxa do Enem. Sabe me dizer como faço para pedir aquela isenção e não pagar nada?",12,True,True,2,97.0

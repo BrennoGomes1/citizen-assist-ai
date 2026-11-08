@@ -80,7 +80,7 @@
     "id": 8,
     "categoria": "Trabalho",
     "titulo": "Ser Jovem Aprendiz",
-    "palavras_chave": ["jovem aprendiz", "aprendiz", "menor aprendiz", "aprendizagem", "primeiro emprego"],
+    "palavras_chave": ["jovem aprendiz", "aprendiz", "menor aprendiz", "aprendizagem", "primeiro emprego", "trabalhar e estudar", "meio periodo", "trampo"],
     "resposta": "Jovem Aprendiz é para quem tem de 14 a 24 anos (pessoas com deficiência não têm limite de idade). O contrato dura até 2 anos, com carteira assinada, e junta trabalho com um curso de aprendizagem. Quem não terminou o ensino médio precisa estar matriculado e frequentando a escola.",
     "documentos": ["CPF", "Documento com foto", "Comprovante de matrícula escolar (se ainda estuda)"],
     "onde": "Empresas contratantes e instituições de aprendizagem (como CIEE, Senai, Senac e Espro)",
@@ -129,6 +129,28 @@
     "documentos": ["CPF", "Conta gov.br"],
     "onde": "Página do Participante, no site do Inep",
     "fonte": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 13,
+    "categoria": "Trabalho",
+    "titulo": "Entender o FGTS",
+    "palavras_chave": ["fgts", "fundo de garantia", "saque do fgts", "saldo do fgts", "app fgts"],
+    "resposta": "O FGTS (Fundo de Garantia do Tempo de Serviço) é um valor que a empresa deposita todo mês numa conta da Caixa no seu nome, igual a 8% do seu salário (para Jovem Aprendiz, 2%). Ele NÃO é descontado do seu salário: quem paga é a empresa. Você pode sacar em situações como demissão sem justa causa, compra da casa própria e aposentadoria. O saldo pode ser consultado no app FGTS.",
+    "documentos": ["CPF", "Conta gov.br ou cadastro no app FGTS"],
+    "onde": "Aplicativo FGTS ou agências da Caixa",
+    "fonte": "https://www.fgts.gov.br",
+    "verificado_em": "2026-11-08"
+  },
+  {
+    "id": 14,
+    "categoria": "Trabalho",
+    "titulo": "Vale-transporte e vale-alimentação",
+    "palavras_chave": ["vale transporte", "vale alimentacao", "vale refeicao", "vt", "vr"],
+    "resposta": "O vale-transporte é obrigatório por lei para quem trabalha com carteira assinada e precisa de transporte público para ir e voltar do trabalho. A empresa pode descontar até 6% do seu salário básico por ele. Já o vale-alimentação e o vale-refeição não são obrigatórios por lei: dependem da empresa ou do acordo da sua categoria (convenção coletiva).",
+    "documentos": ["Pedido de vale-transporte por escrito, informando seu endereço e os transportes que você usa"],
+    "onde": "Setor de RH ou departamento pessoal da empresa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l7418.htm",
     "verificado_em": "2026-11-08"
   }
 ]
