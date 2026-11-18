@@ -156,4 +156,4 @@ Com isso, 3 das 5 dúvidas sem solução passaram a ser respondidas (vale-transp
 
 ## Vídeo técnico
 
-[link do YouTube (não listado)]
+https://youtu.be/Jx4LNh0s_zY
